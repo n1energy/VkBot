@@ -1,0 +1,16 @@
+user_token: NmE0YzRjMzEtNTM2Zi00NDY5LThmNzItZTE1YmE2MTZkNGE4XzE3ODU=
+session:
+  key: ZmDfcTF7_60GrrY167zsiPd67pEvs0aGOv2oasOM1Pg=
+admin:
+  email: admin@admin.com
+  password: admin
+database:
+  host: 0.0.0.0
+  port: 5432
+  user: postgres
+  password: changeme
+  database: postgres
+bot:
+  token: 727710a70f9d3c4410fb2ea1a4f8487a4568b602c09953735adfb81d95493e41e28560c77c10640fd7dfe
+  group_id: 210992963
+
